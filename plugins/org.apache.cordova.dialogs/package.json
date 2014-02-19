@@ -1,0 +1,14 @@
+{
+    "version": "0.2.6",
+    "name": "org.apache.cordova.dialogs",
+    "cordova_name": "Notification",
+    "description": "Cordova Notification Plugin",
+    "license": "Apache 2.0",
+    "repo": "https://git-wip-us.apache.org/repos/asf/cordova-plugin-dialogs.git",
+    "issue": "https://issues.apache.org/jira/browse/CB/component/12320642",
+    "keywords": [
+        "cordova",
+        "notification"
+    ],
+    "engines": []
+}
