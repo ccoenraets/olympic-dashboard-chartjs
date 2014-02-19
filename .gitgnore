@@ -1,9 +1,0 @@
-.idea/
-.DS_STORE
-.gitignore
-hooks/
-merges/
-platforms/
-plugins/
-www/lib/chartjs/dx.chartjs.js
-www/lib/chartjs/globalize.min.js
