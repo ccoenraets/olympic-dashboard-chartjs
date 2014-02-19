@@ -1,4 +1,4 @@
-## Interactive Mobile Dashboard using ChartJS and Cordova ##
+### Interactive Mobile Dashboard using ChartJS and Cordova ###
 
 To run in your browser:
 
